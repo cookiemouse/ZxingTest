@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZxingTest</string>
+    <string name="title_activity_capture">CaptureActivity</string>
+</resources>
